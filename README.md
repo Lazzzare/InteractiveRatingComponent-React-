@@ -1,4 +1,4 @@
-![RatingComponent](src/assets/)
+![RatingComponent](src/assets/README-Image1.PNG)
 
 # Links
 
