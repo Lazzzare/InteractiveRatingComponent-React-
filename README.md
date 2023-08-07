@@ -1,3 +1,5 @@
+![RatingComponent](src/assets/)
+
 # Links
 
 - Solution URL: [GitHub Code]('')
