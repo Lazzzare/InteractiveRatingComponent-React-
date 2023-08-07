@@ -5,6 +5,7 @@
 
   <!-- Second Image -->
   <img src="./src/assets/README-Image2.PNG" width="300" height="300" alt="Second Image">
+  <img src="./src/assets/README-Image2.PNG" width="300" height="300" alt="Second Image">
 </div>
 
 # Links
