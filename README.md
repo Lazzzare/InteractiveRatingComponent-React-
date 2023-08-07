@@ -1,10 +1,9 @@
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; justify-content: center; margin: auto;">
 
   <!-- First Image -->
   <img src="./src/assets/README-Image1.PNG" alt="First Image" width="300" height="300"  style="margin-right: 50px;">
 
   <!-- Second Image -->
-  <img src="./src/assets/README-Image2.PNG" width="300" height="300" alt="Second Image">
   <img src="./src/assets/README-Image2.PNG" width="300" height="300" alt="Second Image">
 </div>
 
