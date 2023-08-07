@@ -1,10 +1,10 @@
 <div style="display: flex; flex-direction: row;">
 
   <!-- First Image -->
-  <img src="./src/assets/README-Image1.PNG" alt="First Image" width={300px} height={300px}  style="margin-right: 10px;">
+  <img src="./src/assets/README-Image1.PNG" alt="First Image" width="300" height="300"  style="margin-right: 10px;">
 
   <!-- Second Image -->
-  <img src="./src/assets/README-Image2.PNG" width={300px} height={300px} alt="Second Image">
+  <img src="./src/assets/README-Image2.PNG" width="300" height="300" alt="Second Image">
 </div>
 
 # Links
